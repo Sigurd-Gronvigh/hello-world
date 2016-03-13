@@ -1,5 +1,5 @@
 # hello-world
-Aanother repository
+Another repository
 
 https://guides.github.com/
 
